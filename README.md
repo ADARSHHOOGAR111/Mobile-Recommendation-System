@@ -16,3 +16,5 @@ Tech Stack
 Programming: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit
 Data: Scraped from online retailers and curated for optimal performance.
+![App screnshot](image.png)
+![Recommended page](image-1.png)
